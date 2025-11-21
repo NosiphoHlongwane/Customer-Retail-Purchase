@@ -49,7 +49,7 @@ Source: Data extracted from Kaggle: Retail Sales Purchace 2023
 - Pivot tables to calculate sales by category, gender, and age group
 - Quantity sold vs. price analysis
 - Monthly and seasonal trend analysis
-![Pivot Table]()
+![Pivot Table](https://github.com/NosiphoHlongwane/Customer-Retail-Purchase/blob/main/exceldatacleaning.png)
 
 ### Data Visualisation
 Bar charts and pie charts for gender-based spending and category popularity
