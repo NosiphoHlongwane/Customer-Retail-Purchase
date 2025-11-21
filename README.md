@@ -49,7 +49,7 @@ Source: Data extracted from Kaggle: Retail Sales Purchace 2023
 - Pivot tables to calculate sales by category, gender, and age group
 - Quantity sold vs. price analysis
 - Monthly and seasonal trend analysis
-![Pivot Table]()
+![Pivot Table](https://github.com/NosiphoHlongwane/Customer-Retail-Purchase/blob/main/excelpivottable.png)
 
 ### Data Visualisation
 Bar charts and pie charts for gender-based spending and category popularity
@@ -63,7 +63,7 @@ Line graphs for time-based sales trends
 - Female customers had higher total sales, particularly in Clothing
 - High-priced items mainly belonged to the Clothing category
 - Electronics had the highest price variability but lower purchase frequency
-![Dashboard]()
+![Dashboard](https://github.com/NosiphoHlongwane/Customer-Retail-Purchase/blob/main/exceldashboard.png)
 
 ## Results
 - Beauty and Clothing were the most purchased categories
