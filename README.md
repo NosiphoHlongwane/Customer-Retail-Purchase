@@ -43,13 +43,13 @@ Source: Data extracted from Kaggle: Retail Sales Purchace 2023
 - Removed duplicates
 - Verified data types and formatted dates
 - Standardised product category names
-  ![Data Cleaning]()
+  ![Data Cleaning](https://github.com/NosiphoHlongwane/Customer-Retail-Purchase/blob/main/exceldatacleaning.png)
   
 ### Exploratory Data Analysis (EDA)
 - Pivot tables to calculate sales by category, gender, and age group
 - Quantity sold vs. price analysis
 - Monthly and seasonal trend analysis
-![Pivot Table](https://github.com/NosiphoHlongwane/Customer-Retail-Purchase/blob/main/exceldatacleaning.png)
+![Pivot Table]()
 
 ### Data Visualisation
 Bar charts and pie charts for gender-based spending and category popularity
